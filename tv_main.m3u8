@@ -92,7 +92,7 @@ http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/2022
 #EXTINF:-1 group-title="Documentary" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" tvg-name="Curiosity Stream",Curiosity Stream
 http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="CW.(WDCW).District.of.Columbia.us" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51306_dark_360w_270h.png" tvg-name="WDCW",WDCW
+#EXTINF:-1 group-title="Entertainment" tvg-id="CW.(WDCW).District.of.Columbia.us" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51306_dark_360w_270h.png" tvg-name="CW",CW
 http://fl2.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Destination.America.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" tvg-name="Destination America",Destination America
 http://fl3.moveonjoy.com/Destination_America/index.m3u8

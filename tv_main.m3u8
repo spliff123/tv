@@ -2,7 +2,8 @@
 ##EXTINF:-1 group-title="Movies" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
 #http://cdn1host.online:2999/kratorius/opLcbhlXaT/1603
 #EXTINF:-1 group-title="Entertainment" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
-https://tvpass.org/live/AEEast/hd/S3ZqVEhkVndoZXY3REszUElBQ3hpWkMxd09zbDhRQmF5blRYNDBrZg==
+https://tvpass.org/live/AEEast/hd
+#https://tvpass.org/live/AEEast/hd/S3ZqVEhkVndoZXY3REszUElBQ3hpWkMxd09zbDhRQmF5blRYNDBrZg==
 #https://v15.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8?token=GxhpCOucQk7t7rKtam1CTQ&expires=1740041508&user_id=cFFqZDVwSXpZVmk5SmFWQlhMWWF3eTNpYUR1c2lxcHp3cGR4bFR0Vw==
 #http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/212.m3u8
 #EXTINF:-1 group-title="News" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
@@ -94,9 +95,11 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/2022
 #EXTINF:-1 group-title="Documentary" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" tvg-name="Curiosity Stream",Curiosity Stream
 http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="CW.(KFMB-TV2).San.Diego,.CA.us" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51306_dark_360w_270h.png" tvg-name="CW (West)",CW (West)
-https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd/S3ZqVEhkVndoZXY3REszUElBQ3hpWkMxd09zbDhRQmF5blRYNDBrZg==
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
+#https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd/S3ZqVEhkVndoZXY3REszUElBQ3hpWkMxd09zbDhRQmF5blRYNDBrZg==
 #EXTINF:-1 group-title="Entertainment" tvg-id="CW.(WDCW).District.of.Columbia.us" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51306_dark_360w_270h.png" tvg-name="CW (East)",CW (East)
-https://tvpass.org/live/cw-wdcw-district-of-columbia/hd/S3ZqVEhkVndoZXY3REszUElBQ3hpWkMxd09zbDhRQmF5blRYNDBrZg==
+https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
+#https://tvpass.org/live/cw-wdcw-district-of-columbia/hd/S3ZqVEhkVndoZXY3REszUElBQ3hpWkMxd09zbDhRQmF5blRYNDBrZg==
 #EXTINF:-1 group-title="Documentary" tvg-id="Destination.America.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" tvg-name="Destination America",Destination America
 http://fl3.moveonjoy.com/Destination_America/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel",Discovery Channel

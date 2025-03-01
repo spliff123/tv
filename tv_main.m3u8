@@ -248,29 +248,29 @@ http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Events" tvg-id="NBA.League.Pass.1.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 1",NBA 1
 http://fl5.moveonjoy.com/NBA_1/index.m3u8
-#EXTINF:-1 group-title="Events" tvg-id="NBALeaguePass2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 2",NBA 2
+#EXTINF:-1 group-title="Events" tvg-id="NBA.League.Pass.2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 2",NBA 2
 http://fl5.moveonjoy.com/NBA_2/index.m3u8
-#EXTINF:-1 group-title="Events" tvg-id="NBALeaguePass3.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 3",NBA 3
+#EXTINF:-1 group-title="Events" tvg-id="NBA.League.Pass.3.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 3",NBA 3
 http://fl5.moveonjoy.com/NBA_3/index.m3u8
-#EXTINF:-1 group-title="Events" tvg-id="NBALeaguePass4.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 4",NBA 4
+#EXTINF:-1 group-title="Events" tvg-id="NBA.League.Pass.4.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 4",NBA 4
 http://fl5.moveonjoy.com/NBA_4/index.m3u8
-#EXTINF:-1 group-title="Events" tvg-id="NBALeaguePass5.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 5",NBA 5
+#EXTINF:-1 group-title="Events" tvg-id="NBA.League.Pass.5.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 5",NBA 5
 http://fl5.moveonjoy.com/NBA_5/index.m3u8
-#EXTINF:-1 group-title="Events" tvg-id="NBALeaguePass6.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 6",NBA 6
+#EXTINF:-1 group-title="Events" tvg-id="NBA.League.Pass.6.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 6",NBA 6
 http://fl5.moveonjoy.com/NBA_6/index.m3u8
-#EXTINF:-1 group-title="Events" tvg-id="NBALeaguePass7.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 7",NBA 7
+#EXTINF:-1 group-title="Events" tvg-id="NBA.League.Pass.7.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 7",NBA 7
 http://fl5.moveonjoy.com/NBA_7/index.m3u8
-#EXTINF:-1 group-title="Events" tvg-id="NBALeaguePass8.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 8",NBA 8
+#EXTINF:-1 group-title="Events" tvg-id="NBA.League.Pass.8.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 8",NBA 8
 http://fl5.moveonjoy.com/NBA_8/index.m3u8
-#EXTINF:-1 group-title="Events" tvg-id="NBALeaguePass9.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 9",NBA 9
+#EXTINF:-1 group-title="Events" tvg-id="NBA.League.Pass.9.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 9",NBA 9
 http://fl5.moveonjoy.com/NBA_9/index.m3u8
-#EXTINF:-1 group-title="Events" tvg-id="NBALeaguePass10.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 10",NBA 10
+#EXTINF:-1 group-title="Events" tvg-id="NBA.League.Pass.10.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 10",NBA 10
 http://fl5.moveonjoy.com/NBA_10/index.m3u8
-#EXTINF:-1 group-title="Events" tvg-id="NBALeaguePass11.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 11",NBA 11
+#EXTINF:-1 group-title="Events" tvg-id="NBA.League.Pass.11.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 11",NBA 11
 http://fl5.moveonjoy.com/NBA_11/index.m3u8
-#EXTINF:-1 group-title="Events" tvg-id="NBALeaguePass12.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 12",NBA 12
+#EXTINF:-1 group-title="Events" tvg-id="NBA.League.Pass.12.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 12",NBA 12
 http://fl5.moveonjoy.com/NBA_12/index.m3u8
-#EXTINF:-1 group-title="Events" tvg-id="NBALeaguePass13.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 13",NBA 13
+#EXTINF:-1 group-title="Events" tvg-id="NBA.League.Pass.13.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 13",NBA 13
 http://fl5.moveonjoy.com/NBA_13/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-name="NBA TV",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8

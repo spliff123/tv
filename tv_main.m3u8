@@ -595,7 +595,7 @@ https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_de.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/test-2/stream_de.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="AdultSwimInfomercials.us" tvg-logo="https://i.imgur.com/gu8luP0.png" tvg-name="Adult Swim Infomercials",Informercials
 https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_de.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-logo="https://i.imgur.com/bnZCZD2.png" tvg-name="Adult Swim Last Stream On The Left",Last Stream On The Left"
+#EXTINF:-1 group-title="Kids" tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-logo="https://i.imgur.com/bnZCZD2.png" tvg-name="Adult Swim Last Stream On The Left",Last Stream On The Left
 https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_de.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="AdultSwimMetalocalypse.us" tvg-logo="https://i.imgur.com/CaKq6Mt.png" tvg-name="Adult Swim Metalocalypse",Metalocalypse
 https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_de.m3u8

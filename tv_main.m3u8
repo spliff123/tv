@@ -597,3 +597,19 @@ https://adultswim-vodlive.cdn.turner.com/live/test-2/stream_de.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_de.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-logo="https://i.imgur.com/bnZCZD2.png" tvg-name="Adult Swim Last Stream On The Left",Last Stream On The Left"
 https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_de.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="AdultSwimMetalocalypse.us" tvg-logo="https://i.imgur.com/CaKq6Mt.png" tvg-name="Adult Swim Metalocalypse",Metalocalypse
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_de.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" tvg-name="Adult Swim Mr. Pickles",Mr. Pickles
+https://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream_de.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="AdultSwimOffTheAir.us" tvg-logo="https://i.imgur.com/X2qhBpO.png" tvg-name="Adult Swim Off The Air",Off The Air
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="AdultSwimPrimal.us" tvg-logo="https://i.imgur.com/fRysIrL.png" tvg-name="Adult Swim Primal",Primal
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="AdultSwimRickandMorty.us" tvg-logo="https://i.imgur.com/uPV5CT1.png" tvg-name="Adult Swim Rick and Morty",Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="AdultSwimRobotChicken.us" tvg-logo="https://i.imgur.com/E6EJ14j.png" tvg-name="Adult Swim Robot Chicken",Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://i.imgur.com/UOZ4VTH.png" tvg-name="Adult Swim Samurai Jack",Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/44dcce23-1aa5-4d0d-81b9-d0fbb9ad6ed2/358d2d623464f4e7becb63facbedf7bc2545cfa4.png?submitted=1684657630511&host=wbd-images.prod-vod.h264.io&partner=beamcom&w=4320" tvg-name="Adult Swim Squidbillies",Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_de.m3u8

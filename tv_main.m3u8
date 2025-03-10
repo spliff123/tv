@@ -589,20 +589,14 @@ https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_de.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_de.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" tvg-name="Adult Swim Daily Live Action",Daily Live Action"
 https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream_de.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="AdultSwimDreamCorpLLC.us" tvg-logo="https://i.imgur.com/TSuWOBP.png" tvg-name="Adult Swim Dream Corp LLC",Dream Corp LLC
-https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_de.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" tvg-name="Adult Swim Home Movies",Swim Home Movies
 https://adultswim-vodlive.cdn.turner.com/live/test-2/stream_de.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="AdultSwimInfomercials.us" tvg-logo="https://i.imgur.com/gu8luP0.png" tvg-name="Adult Swim Infomercials",Informercials
-https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_de.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-logo="https://i.imgur.com/bnZCZD2.png" tvg-name="Adult Swim Last Stream On The Left",Last Stream On The Left
 https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_de.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="AdultSwimMetalocalypse.us" tvg-logo="https://i.imgur.com/CaKq6Mt.png" tvg-name="Adult Swim Metalocalypse",Metalocalypse
 https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_de.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" tvg-name="Adult Swim Mr. Pickles",Mr. Pickles
 https://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream_de.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="AdultSwimOffTheAir.us" tvg-logo="https://i.imgur.com/X2qhBpO.png" tvg-name="Adult Swim Off The Air",Off The Air
-https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="AdultSwimPrimal.us" tvg-logo="https://i.imgur.com/fRysIrL.png" tvg-name="Adult Swim Primal",Primal
 https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="AdultSwimRickandMorty.us" tvg-logo="https://i.imgur.com/uPV5CT1.png" tvg-name="Adult Swim Rick and Morty",Rick and Morty
@@ -621,15 +615,5 @@ https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_de.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/f7164430-f005-45fa-9f29-83f91414239a/e7d567f4470b66477105a730a7127f60d448cd8d.png?submitted=1684675830224&host=wbd-images.prod-vod.h264.io&partner=beamcom&w=4320" tvg-name="Adult Swim Tim and Eric",Tim and Eric
 https://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream_de.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="AdultSwimYourPrettyFaceIsGoingToHell.us" tvg-logo="https://i.imgur.com/uLoRE4F.png" tvg-name="Adult Swim Your Pretty Face Is Going To Hell",Your Pretty Face Is Going To Hell
-https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_de.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" tvg-name="test Channel 1",test Channel 1
-https://adultswim-vodlive.cdn.turner.com/live/test-1/stream_de.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" tvg-name="test Channel 3",test Channel 3
-https://adultswim-vodlive.cdn.turner.com/live/test-3/stream_de.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" tvg-name="test Channel 4",test Channel 4
-https://adultswim-vodlive.cdn.turner.com/live/test-4/stream_de.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" tvg-name="test Channel 5",test Channel 5
-https://adultswim-vodlive.cdn.turner.com/live/test-5/stream_de.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Toonami.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Toonami_logo.svg/2560px-Toonami_logo.svg.png" tvg-name="Toonami",Toonami
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8

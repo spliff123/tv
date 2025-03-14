@@ -96,12 +96,9 @@ http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/2022
 #EXTINF:-1 group-title="Documentary" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" tvg-name="Curiosity Stream",Curiosity Stream
 http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="CW.(KFMB-TV2).San.Diego,.CA.us" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51306_dark_360w_270h.png" tvg-name="CW (West)",CW (West)
-https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
-#https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd/S3ZqVEhkVndoZXY3REszUElBQ3hpWkMxd09zbDhRQmF5blRYNDBrZg==
-#EXTINF:-1 group-title="Entertainment" tvg-id="CW.(WDCW).District.of.Columbia.us" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51306_dark_360w_270h.png" tvg-name="CW (East)",CW (East)
-https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
-#https://tvpass.org/live/cw-wdcw-district-of-columbia/hd/S3ZqVEhkVndoZXY3REszUElBQ3hpWkMxd09zbDhRQmF5blRYNDBrZg==
+#EXTINF:-1 group-title="Entertainment" tvg-id="cw11wpix.us" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51306_dark_360w_270h.png" tvg-name="CW",CW
+https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/67637
+#https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
 #EXTINF:-1 group-title="Documentary" tvg-id="Destination.America.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" tvg-name="Destination America",Destination America
 http://fl3.moveonjoy.com/Destination_America/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel",Discovery Channel

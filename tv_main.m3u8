@@ -580,7 +580,7 @@ http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
-----#EXTINF:-1 group-title="Kids" tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-logo="https://i.imgur.com/cvnniFH.png" tvg-name="Adult Swim Aqua Teen Hunger Force",Aqua Teen Hunger Force
+----####EXTINF:-1 group-title="Kids" tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-logo="https://i.imgur.com/cvnniFH.png" tvg-name="Adult Swim Aqua Teen Hunger Force",Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_de.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="AdultSwimBlackJesus.us" tvg-logo="https://i.imgur.com/QWzEK8i.png" tvg-name="Adult Swim Black Jesus",Black Jesus
 https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_de.m3u8
@@ -617,4 +617,4 @@ https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_de.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/f7164430-f005-45fa-9f29-83f91414239a/e7d567f4470b66477105a730a7127f60d448cd8d.png?submitted=1684675830224&host=wbd-images.prod-vod.h264.io&partner=beamcom&w=4320" tvg-name="Adult Swim Tim and Eric",Tim and Eric
 https://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream_de.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Toonami.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Toonami_logo.svg/2560px-Toonami_logo.svg.png" tvg-name="Toonami",Toonami
-https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8----
+https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8####----

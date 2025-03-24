@@ -447,16 +447,24 @@ http://fl2.moveonjoy.com/REVOLT/index.m3u8
 https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="SEC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-name="SEC Network",SEC Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/295
+#EXTINF:-1 group-title="Movies" tvg-id="SHOXBET.-.Eastern.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/SHOxBET.us.png" tvg-name="SHO+BET",SHO+BET
+https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/40497
+#https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/40501
 #EXTINF:-1 group-title="Movies" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" tvg-name="Showtime",Showtime
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/40501
+#http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" tvg-name="Showtime 2",Showtime 2
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/40498
 #http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Showtime.Extreme.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" tvg-name="Showtime Extreme",Showtime Extreme
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/40499
 #http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/125px-Showtime_Family_Zone.svg.png" tvg-name="Showtime Family Zone",Showtime Family Zone
+https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/40500
 #EXTINF:-1 group-title="Movies" tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" tvg-name="Showtime Next",Showtime Next
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Showtime.Showcase.HD.-.East.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ShowtimeShowcase.us.png" tvg-name="Showtime Showcase",Showtime Showcase
+https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/40503
 #EXTINF:-1 group-title="Movies" tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" tvg-name="Showtime Women",Showtime Women
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Smithsonian.Channel.USA.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" tvg-name="SMITHSONIAN CHANNEL",SMITHSONIAN CHANNEL

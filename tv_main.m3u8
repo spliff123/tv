@@ -493,10 +493,12 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/1466
 #EXTINF:-1 group-title="Entertainment" tvg-id="StartTVNetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" tvg-name="Start TV",Start TV
 http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="Starz",Starz
-https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/40506
+https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263728
+#https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/40506
 #http://fl2.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Starz.Cinema.HD.-.Eastern.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzCinema.us.png" tvg-name="Starz Cinema",Starz Cinema
-https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/40507
+https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263723
+#https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/40507
 #EXTINF:-1 group-title="Movies" tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" tvg-name="Starz Comedy",Starz Comedy
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/40508
 #http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8

@@ -268,7 +268,7 @@ http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA-AtlantaHawks.us" tvg-name="NBALP: ATLANTA HAWKS" group-title="NBA" tvg-logo="https://az1.hatstoremedia.com/hatstore/images/image-atlanta-hawks-kepsar-2017-02-21-125307966/555/555/0/atlanta-hawks-kepsar.png" tvg-chno="",NBALP: ATLANTA HAWKS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46956
-#EXTINF:-1 tvg-id="NBA-BostonCeltics.us" tvg-name="NBALP: BOSTON CELTICS" group-title="NBA" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*juTPUlaOtDhdwj-qb3-E9g.png" tvg-chno="",NBALP: BOSTON CELTICS
+#EXTINF:-1 tvg-id="NBA-BostonCeltics.us" tvg-name="NBALP: BOSTON CELTICS" group-title="NBA" tvg-logo="https://i.ibb.co/7XKG2dz/celtics.png" tvg-chno="",NBALP: BOSTON CELTICS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46957
 #EXTINF:-1 tvg-id="NBA-BrooklynNets.us" tvg-name="NBALP: BROOKLYN NETS" group-title="NBA" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*HyjGJc8m_Ycm68COQbD06A.png" tvg-chno="",NBALP: BROOKLYN NETS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46958
@@ -292,7 +292,7 @@ https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46966
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46967
 #EXTINF:-1 tvg-id="NBA-LAClippers.us" tvg-name="NBALP: LOS ANGELES CLIPPERS" group-title="NBA" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*DG36Phj6BdfyRevczyruPA.png" tvg-chno="",NBALP: LOS ANGELES CLIPPERS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46968
-#EXTINF:-1 tvg-id="NBA-LosAngelesLakers.us" tvg-name="NBALP: LOS ANGELES LAKERS" group-title="NBA" tvg-logo="https://sportslogohistory.com/wp-content/uploads/2017/12/los_angeles_lakers_1977-2001.png" tvg-chno="",NBALP: LOS ANGELES LAKERS
+#EXTINF:-1 tvg-id="NBA-LosAngelesLakers.us" tvg-name="NBALP: LOS ANGELES LAKERS" group-title="NBA" tvg-logo="https://i.ibb.co/3MzWdbK/lakers.png" tvg-chno="",NBALP: LOS ANGELES LAKERS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46969
 #EXTINF:-1 tvg-id="NBA-MemphisGrizzlies.us" tvg-name="NBALP: MEMPHIS GRIZZLIES" group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png" tvg-chno="",NBALP: MEMPHIS GRIZZLIES
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46970

@@ -639,7 +639,7 @@ http://fl1.moveonjoy.com/WE_TV/index.m3u8
 http://fl2.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" tvg-name="WORLD FISHING NETWORK",WORLD FISHING NETWORK
 http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/960px-WWE_Network_logo.svg.png" tvg-chno="",WWE Network
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" group-title="Sports" tvg-logo="http://lonewolftvpr.com/logos/wwe.png" tvg-chno="",WWE Network
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/74467
 #EXTINF:-1 group-title="Sports" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8

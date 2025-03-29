@@ -8,8 +8,8 @@ https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/72891
 #https://tvpass.org/live/AEEast/hd/S3ZqVEhkVndoZXY3REszUElBQ3hpWkMxd09zbDhRQmF5blRYNDBrZg==
 #https://v15.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8?token=GxhpCOucQk7t7rKtam1CTQ&expires=1740041508&user_id=cFFqZDVwSXpZVmk5SmFWQlhMWWF3eTNpYUR1c2lxcHp3cGR4bFR0Vw==
 #http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/212.m3u8
-#EXTINF:-1 tvg-id="ABC.(WCVB).Boston,.MA.us" tvg-name="ABC Boston (l:cdn1host)" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/WBTS-CD_2023.svg/1920px-WBTS-CD_2023.svg.png" tvg-chno="",ABC Boston
-https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/73041
+#EXTINF:-1 tvg-id="ABC.(WCVB).Boston,.MA.us" tvg-name="ABC Boston" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/1280px-WCVB-TV_%282021%29.svg.png" tvg-chno="",ABC Boston
+https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/90334
 #EXTINF:-1 group-title="News" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC NETWORK",ACC NETWORK

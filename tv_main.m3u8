@@ -8,6 +8,8 @@ https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/72891
 #https://tvpass.org/live/AEEast/hd/S3ZqVEhkVndoZXY3REszUElBQ3hpWkMxd09zbDhRQmF5blRYNDBrZg==
 #https://v15.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8?token=GxhpCOucQk7t7rKtam1CTQ&expires=1740041508&user_id=cFFqZDVwSXpZVmk5SmFWQlhMWWF3eTNpYUR1c2lxcHp3cGR4bFR0Vw==
 #http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/212.m3u8
+#EXTINF:-1 tvg-id="ABC.(WCVB).Boston,.MA.us" tvg-name="ABC Boston (l:cdn1host)" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/WBTS-CD_2023.svg/1920px-WBTS-CD_2023.svg.png" tvg-chno="",ABC Boston
+https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/73041
 #EXTINF:-1 group-title="News" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC NETWORK",ACC NETWORK
@@ -144,6 +146,8 @@ http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" tvg-name="FOOD NETWORK",FOOD NETWORK
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-name="FOX Boston" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/WFXT_Boston_25_logo_%282018%29.png" tvg-chno="",FOX Boston
+https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/72998
 #EXTINF:-1 group-title="News" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX (WNYW)
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="Fox.Business.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" tvg-name="FOX Business Network",FOX Business Network
@@ -401,6 +405,8 @@ https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46675
 
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-name="NBA TV",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="NBC.(WBTS-CD).Nashua,.NH.us" tvg-name="NBC 10 Boston" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/WBTS-CD_2023.svg/1920px-WBTS-CD_2023.svg.png" tvg-chno="",NBC 10 Boston
+https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/73018
 #EXTINF:-1 group-title="News" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" tvg-name="NBC",NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Golf.Channel.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" tvg-name="NBC Golf",NBC Golf

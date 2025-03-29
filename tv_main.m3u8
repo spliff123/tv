@@ -620,7 +620,8 @@ http://fl2.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TV.One.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-name="TVOne",TVOne
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
-http://fl2.moveonjoy.com/USA_Network/index.m3u8
+https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/72254
+#http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" tvg-name="VH1",VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="VICE.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" tvg-name="Vice",Vice

@@ -252,13 +252,13 @@ http://fl2.moveonjoy.com/MLB_3/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="MLB.Network.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" tvg-name="MLB Network",MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="MLB-ArizonaDiamondbacks.us" tvg-name="MLB Arizona Diamondbacks" group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Arizona_Diamondbacks_logo_%28low_res%29.svg/1200px-Arizona_Diamondbacks_logo_%28low_res%29.svg.png" tvg-chno="",MLB Arizona Diamondbacks
+#EXTINF:-1 tvg-id="MLB-ArizonaDiamondbacks.us" tvg-name="MLB Arizona Diamondbacks" group-title="MLB" tvg-logo="https://Offthewall.store:443/images/b5d552da6823f7d46d247130a1b90551.png" tvg-chno="",MLB Arizona Diamondbacks
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263493
 #EXTINF:-1 tvg-id="MLB-AtlantaBraves.us" tvg-name="MLB Atlanta Braves" group-title="MLB" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fmlb%2F500%2Fatl.png" tvg-chno="",MLB Atlanta Braves
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263494
 #EXTINF:-1 tvg-id="MLB-BaltimoreOrioles.us" tvg-name="MLB Baltimore Orioles" group-title="MLB" tvg-logo="https://www.prospects1500.com/wp-content/uploads/2016/12/Orioles-Logo-1.png" tvg-chno="",MLB Baltimore Orioles
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263495
-#EXTINF:-1 tvg-id="MLB-BostonRedSox.us" tvg-name="MLB Boston Red Sox" group-title="MLB" tvg-logo="https://sportslogohistory.com/wp-content/uploads/2018/06/boston_red_sox_goredsox.png" tvg-chno="",MLB Boston Red Sox
+#EXTINF:-1 tvg-id="MLB-BostonRedSox.us" tvg-name="MLB Boston Red Sox" group-title="MLB" tvg-logo="https://Offthewall.store:443/images/baa0ec9a96efc231e7d46440d0720514.png" tvg-chno="",MLB Boston Red Sox
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263496
 #EXTINF:-1 tvg-id="MLB-ChicagoCubs.us" tvg-name="MLB Chicago Cubs" group-title="MLB" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fmlb%2F500%2Fchc.png" tvg-chno="",MLB Chicago Cubs
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263497
@@ -270,11 +270,11 @@ https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263499
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263500
 #EXTINF:-1 tvg-id="MLB-ColoradoRockies.us" tvg-name="MLB Colorado Rockies" group-title="MLB" tvg-logo="https://i.pinimg.com/originals/bc/0d/12/bc0d12870b0ff16e992cec7d7d590407.png" tvg-chno="",MLB Colorado Rockies
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263501
-#EXTINF:-1 tvg-id="MLB-DetroitTigers.us" tvg-name="MLB Detroit Tigers" group-title="MLB" tvg-logo="https://vafloc01.s3.amazonaws.com/WBStatic/site1101001/img/design-2019/branding/h1-tigers.png" tvg-chno="",MLB Detroit Tigers
+#EXTINF:-1 tvg-id="MLB-DetroitTigers.us" tvg-name="MLB Detroit Tigers" group-title="MLB" tvg-logo="https://Offthewall.store:443/images/f16fa648827ba210541bc45573adbf1a.png" tvg-chno="",MLB Detroit Tigers
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263502
 #EXTINF:-1 tvg-id="MLB-HoustonAstros.us" tvg-name="MLB Houston Astros" group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Houston-Astros-Logo.svg/1200px-Houston-Astros-Logo.svg.png" tvg-chno="",MLB Houston Astros
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263503
-#EXTINF:-1 tvg-id="MLB-KansasCityRoyals.us" tvg-name="MLB Kansas City Royals" group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Kansas_City_Royals.svg/1200px-Kansas_City_Royals.svg.png" tvg-chno="",MLB Kansas City Royals
+#EXTINF:-1 tvg-id="MLB-KansasCityRoyals.us" tvg-name="MLB Kansas City Royals" group-title="MLB" tvg-logo="https://Offthewall.store:443/images/a0a2fbdaa69828ec78db23874d0aa4aa.png" tvg-chno="",MLB Kansas City Royals
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263504
 #EXTINF:-1 tvg-id="MLB-LosAngelesAngels.us" tvg-name="MLB Los Angeles Angels" group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Los_Angeles_Angels_of_Anaheim.svg/1200px-Los_Angeles_Angels_of_Anaheim.svg.png" tvg-chno="",MLB Los Angeles Angels
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263505
@@ -284,11 +284,11 @@ https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263506
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263507
 #EXTINF:-1 tvg-id="MLB-MilwaukeeBrewers.us" tvg-name="MLB Milwaukee Brewers" group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Milwaukee_Brewers_logo.svg/1200px-Milwaukee_Brewers_logo.svg.png" tvg-chno="",MLB Milwaukee Brewers
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263508
-#EXTINF:-1 tvg-id="MLB-MinnesotaTwins.us" tvg-name="MLB Minnesota Twins" group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Minnesota_Twins_logo_%28low_res%29.svg/1200px-Minnesota_Twins_logo_%28low_res%29.svg.png" tvg-chno="",MLB Minnesota Twins
+#EXTINF:-1 tvg-id="MLB-MinnesotaTwins.us" tvg-name="MLB Minnesota Twins" group-title="MLB" tvg-logo="https://Offthewall.store:443/images/70ed3a30d0b33a8952b2b84768f5105e.png" tvg-chno="",MLB Minnesota Twins
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263509
 #EXTINF:-1 tvg-id="MLB-NewYorkMets.us" tvg-name="MLB New York Mets" group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/New_York_Mets.svg/1200px-New_York_Mets.svg.png" tvg-chno="",MLB New York Mets
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263510
-#EXTINF:-1 tvg-id="MLB-NewYorkYankees.us" tvg-name="MLB New York Yankees" group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/NewYorkYankees_PrimaryLogo.svg/1200px-NewYorkYankees_PrimaryLogo.svg.png" tvg-chno="",MLB New York Yankees
+#EXTINF:-1 tvg-id="MLB-NewYorkYankees.us" tvg-name="MLB New York Yankees" group-title="MLB" tvg-logo="https://Offthewall.store:443/images/3ff4f2a24902517f0b4c479b22a51784.png" tvg-chno="",MLB New York Yankees
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263511
 #EXTINF:-1 tvg-id="MLB-Athletics.us" tvg-name="MLB Oakland Athletics" group-title="MLB" tvg-logo="https://i.pinimg.com/originals/e8/e5/83/e8e58326180cf9ee380b3e45502e26a4.png" tvg-chno="",MLB Oakland Athletics
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263512
@@ -308,9 +308,9 @@ https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263518
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263519
 #EXTINF:-1 tvg-id="MLB-TexasRangers.us" tvg-name="MLB Texas Rangers" group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Texas_Rangers.svg/1200px-Texas_Rangers.svg.png" tvg-chno="",MLB Texas Rangers
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263520
-#EXTINF:-1 tvg-id="MLB-TorontoBlueJays.us" tvg-name="MLB Toronto Blue Jays" group-title="MLB" tvg-logo="https://f1.pngfuel.com/png/491/452/964/mlb-logo-toronto-blue-jays-toronto-blue-jays-baseball-club-st-louis-cardinals-symbol-organization-perfect-cut-emblem-png-clip-art-thumbnail.png" tvg-chno="",MLB Toronto Blue Jays
+#EXTINF:-1 tvg-id="MLB-TorontoBlueJays.us" tvg-name="MLB Toronto Blue Jays" group-title="MLB" tvg-logo="https://Offthewall.store:443/images/e90cd71f0b8de44555a84ca2c0e59114.png" tvg-chno="",MLB Toronto Blue Jays
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263521
-#EXTINF:-1 tvg-id="MLB-WashingtonNationals.us" tvg-name="MLB Washington Nationals" group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Washington_Nationals_logo_%28low_res%29.svg/1200px-Washington_Nationals_logo_%28low_res%29.svg.png" tvg-chno="",MLB Washington Nationals
+#EXTINF:-1 tvg-id="MLB-WashingtonNationals.us" tvg-name="MLB Washington Nationals" group-title="MLB" tvg-logo="https://Offthewall.store:443/images/974100a524d4a2b9d36d2c2db351612b.png" tvg-chno="",MLB Washington Nationals
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263522
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Motor.Trend.HD.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" tvg-name="MotorTrend",MotorTrend

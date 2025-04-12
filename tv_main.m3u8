@@ -108,7 +108,8 @@ https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/85331
 #EXTINF:-1 group-title="Movies" tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4
 http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Crime.+.Investigation.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" tvg-name="Crime + Investigation",Crime + Investigation
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/2022
+https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/237741
+#http://cdn1host.online:2999/kratorius/opLcbhlXaT/2022
 #EXTINF:-1 group-title="Documentary" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" tvg-name="Curiosity Stream",Curiosity Stream
 http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="CW.(WLVI).Boston,.MA.us" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51306_dark_360w_270h.png" tvg-name="CW 56",CW 56

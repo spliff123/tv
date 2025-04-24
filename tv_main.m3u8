@@ -682,31 +682,43 @@ http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="TLC.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-name="TLC",TLC
 http://fl2.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT
-http://fl2.moveonjoy.com/TNT/index.m3u8
+https://a1xs.vip/300001
+#http://fl2.moveonjoy.com/TNT/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" tvg-chno="",TNT Sports 1
-https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/79590
+https://a1xs.vip/2000021
+#https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/79590
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" tvg-chno="",TNT Sports 2
-https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/79591
+https://a1xs.vip/2000022
+#https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/79591
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" tvg-chno="",TNT Sports 3
-https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/79592
+https://a1xs.vip/2000023
+#https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/79592
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" tvg-chno="",TNT Sports 4
-https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/79593
+https://a1xs.vip/2000024
+#https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/79593
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Travel.US.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" tvg-name="Travel Channel",Travel Channel
 http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" tvg-name="truTV",truTV
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-id="TSN1.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1",TSN 1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
+https://a1xs.vip/6000001
+#http://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="TSN2.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-name="TSN 2",TSN 2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
+https://a1xs.vip/6000002
+#http://fl5.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="TSN3.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" tvg-name="TSN 3",TSN 3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
+https://a1xs.vip/6000003
+#http://fl5.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="TSN4.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" tvg-name="TSN 4",TSN 4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
+https://a1xs.vip/6000004
+#http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="TSN5.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-name="TSN 5",TSN 5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
+https://a1xs.vip/6000005
+#http://fl5.moveonjoy.com/TSN_5/index.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="TV.Land.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" tvg-name="TVLand",TVLand
 http://fl2.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TV.One.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-name="TVOne",TVOne

@@ -139,8 +139,7 @@ http://fl3.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" tvg-name="E ENTERTAINMENT TELEVISION",E ENTERTAINMENT TELEVISION
 http://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-name="ESPN",ESPN
-https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/106129
-#https://a1xs.vip/40000011
+https://a1xs.vip/40000011
 #http://41.205.93.154/ESPN/index.m3u8
 #https://a1xs.vip/40000011
 #http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/133.m3u8

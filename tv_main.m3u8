@@ -149,12 +149,14 @@ http://fl3.moveonjoy.com/ESPN_2/index.m3u8
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="ESPNU.On.Demand.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" tvg-name="ESPN U",ESPN U
 http://fl3.moveonjoy.com/ESPN_U/index.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" tvg-name="FOOD NETWORK",FOOD NETWORK
-https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/100961
+http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/100961
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263374
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/72314
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/263374
-#http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-name="FOX Boston" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/WFXT_Boston_25_logo_%282018%29.png" tvg-chno="",FOX Boston
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/72998
 #EXTINF:-1 group-title="News" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX (WNYW)

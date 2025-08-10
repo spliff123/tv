@@ -61,15 +61,15 @@ http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/70387
 #EXTINF:-1 group-title="Movies" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/Cinemax5StarMax.us.png" tvg-name="CINEMAX 5 STARMAX",CINEMAX 5 STARMAX
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/70388
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://cdn.iptvboss.pro/logos/USA/CinemaxActionMax%20us.png" tvg-name="CINEMAX ActionMAX",CINEMAX ActionMAX
+#EXTINF:-1 group-title="Movies" tvg-id="ActionMax.-.Eastern.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/CinemaxActionMax%20us.png" tvg-name="CINEMAX ActionMAX",CINEMAX ActionMAX
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/70389
 #EXTINF:-1 group-title="Movies" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX",CINEMAX MOREMAX
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/70390
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://cdn.iptvboss.pro/logos/USA/MovieMax.us.png" tvg-name="CINEMAX MovieMax",CINEMAX MovieMax
+#EXTINF:-1 group-title="Movies" tvg-id="MovieMax.(Max.6).-.East.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/MovieMax.us.png" tvg-name="CINEMAX MovieMax",CINEMAX MovieMax
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/70391
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://cdn.iptvboss.pro/logos/USA/OuterMAXus.png" tvg-name="CINEMAX OuterMAX",CINEMAX OuterMAX
+#EXTINF:-1 group-title="Movies" tvg-id="OuterMax.east.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/OuterMAXus.png" tvg-name="CINEMAX OuterMAX",CINEMAX OuterMAX
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/20883
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ThrillerMAX.us.png" tvg-name="CINEMAX ThrillerMAX",CINEMAX ThrillerMAX
+#EXTINF:-1 group-title="Movies" tvg-id="ThrillerMax.-.East.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ThrillerMAX.us.png" tvg-name="CINEMAX ThrillerMAX",CINEMAX ThrillerMAX
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/70392
 #EXTINF:-1 group-title="Movies" tvg-id="Cinemax.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" tvg-name="CINEMAX WEST",CINEMAX WEST
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/20875

@@ -149,7 +149,7 @@ http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/98961
 
 #EXTINF:-1 tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-name="FOX Boston" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/WFXT_Boston_25_logo_%282018%29.png" tvg-chno="",FOX Boston
-https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/51781
+https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/19705
 #EXTINF:-1 group-title="News" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX (WNYW)
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/51795
 #http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
@@ -526,9 +526,10 @@ http://fl3.moveonjoy.com/NFL_13/index.m3u8
 http://fl3.moveonjoy.com/NFL_14/index.m3u8
 #EXTINF:-1 group-title="NFL" tvg-id="NFL.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL 15",NFL 15
 http://fl3.moveonjoy.com/NFL_15/index.m3u8
-#EXTINF:-1 group-title="NFL" tvg-id="NFL.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL Network",NFL Network
+
+#EXTINF:-1 group-title="Sports" tvg-id="NFL.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-name="NFL Network",NFL Network
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/65282
-#EXTINF:-1 group-title="NFL" tvg-id="NFL.RedZone.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" tvg-name="NFL RedZone",NFL RedZone
+#EXTINF:-1 group-title="Sports" tvg-id="NFL.RedZone.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" tvg-name="NFL RedZone",NFL RedZone
 http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 
 #EXTINF:-1 group-title="NHL" tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 1",NHL 1

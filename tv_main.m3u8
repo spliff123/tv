@@ -532,6 +532,15 @@ https://a1xs.vip/2000023
 https://a1xs.vip/2000024
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/79593
 
+#EXTINF:-1  tvg-name="Toonami Aftermath East" tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20east.jpg" group-title="Toonami" radio="false",Toonami Aftermath East
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1  tvg-name="Toonami Aftermath Movies" tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20movies.jpg" group-title="Toonami" radio="false",Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1  tvg-name="Toonami Aftermath Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20radio.jpg" group-title="Toonami" radio="false",Toonami Aftermath Radio
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
+#EXTINF:-1  tvg-name="Toonami Aftermath West" tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20west.jpg" group-title="Toonami" radio="false",Toonami Aftermath West
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+
 #EXTINF:-1 group-title="Documentary" tvg-id="Travel.US.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" tvg-name="Travel Channel",Travel Channel
 http://fl7.moveonjoy.com/Travel_Channel/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" tvg-name="truTV",truTV

@@ -340,134 +340,161 @@ http://fl7.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.Wild.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" tvg-name="National Geographic Wild",National Geographic Wild
 http://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA-AtlantaHawks.us" tvg-name="NBALP1: ATLANTA HAWKS" group-title="NBA" tvg-logo="https://az1.hatstoremedia.com/hatstore/images/image-atlanta-hawks-kepsar-2017-02-21-125307966/555/555/0/atlanta-hawks-kepsar.png" tvg-chno="",NBALP1: ATLANTA HAWKS
+#EXTINF:-1 tvg-id="NBA-AtlantaHawks.us" tvg-name="NBALP1: ATLANTA HAWKS" group-title="NOT WORKING" tvg-logo="https://az1.hatstoremedia.com/hatstore/images/image-atlanta-hawks-kepsar-2017-02-21-125307966/555/555/0/atlanta-hawks-kepsar.png" tvg-chno="",NBALP1: ATLANTA HAWKS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46956
-#EXTINF:-1 tvg-id="NBA-BostonCeltics.us" tvg-name="NBALP1: BOSTON CELTICS" group-title="NBA" tvg-logo="https://i.ibb.co/7XKG2dz/celtics.png" tvg-chno="",NBALP1: BOSTON CELTICS
+#EXTINF:-1 tvg-id="NBA-BostonCeltics.us" tvg-name="NBALP1: BOSTON CELTICS" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/7XKG2dz/celtics.png" tvg-chno="",NBALP1: BOSTON CELTICS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46957
-#EXTINF:-1 tvg-id="NBA-BrooklynNets.us" tvg-name="NBALP1: BROOKLYN NETS" group-title="NBA" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*HyjGJc8m_Ycm68COQbD06A.png" tvg-chno="",NBALP1: BROOKLYN NETS
+#EXTINF:-1 tvg-id="NBA-BrooklynNets.us" tvg-name="NBALP1: BROOKLYN NETS" group-title="NOT WORKING" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*HyjGJc8m_Ycm68COQbD06A.png" tvg-chno="",NBALP1: BROOKLYN NETS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46958
-#EXTINF:-1 tvg-id="NBA-CharlotteHornets.us" tvg-name="NBALP1: CHARLOTTE HORNETS" group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png" tvg-chno="",NBALP1: CHARLOTTE HORNETS
+#EXTINF:-1 tvg-id="NBA-CharlotteHornets.us" tvg-name="NBALP1: CHARLOTTE HORNETS" group-title="NOT WORKING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png" tvg-chno="",NBALP1: CHARLOTTE HORNETS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46959
-#EXTINF:-1 tvg-id="NBA-ChicagoBulls.us" tvg-name="NBALP1: CHICAGO BULLS" group-title="NBA" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*k0aNS5g2Arwa8l4wu3_s9w.png" tvg-chno="",NBALP1: CHICAGO BULLS
+#EXTINF:-1 tvg-id="NBA-ChicagoBulls.us" tvg-name="NBALP1: CHICAGO BULLS" group-title="NOT WORKING" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*k0aNS5g2Arwa8l4wu3_s9w.png" tvg-chno="",NBALP1: CHICAGO BULLS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46960
-#EXTINF:-1 tvg-id="NBA-ClevelandCavaliers.us" tvg-name="NBALP1: CLEVELAND CAVALIERS" group-title="NBA" tvg-logo="https://i.pinimg.com/originals/14/40/e5/1440e5d25320aaa1db1d5907c2a75994.png" tvg-chno="",NBALP1: CLEVELAND CAVALIERS
+#EXTINF:-1 tvg-id="NBA-ClevelandCavaliers.us" tvg-name="NBALP1: CLEVELAND CAVALIERS" group-title="NOT WORKING" tvg-logo="https://i.pinimg.com/originals/14/40/e5/1440e5d25320aaa1db1d5907c2a75994.png" tvg-chno="",NBALP1: CLEVELAND CAVALIERS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/19376
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46961
-#EXTINF:-1 tvg-id="NBA-DallasMavericks.us" tvg-name="NBALP1: DALLAS MAVERICKS" group-title="NBA" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181214/500x500/mavericks_wbg.png" tvg-chno="",NBALP1: DALLAS MAVERICKS
+#EXTINF:-1 tvg-id="NBA-DallasMavericks.us" tvg-name="NBALP1: DALLAS MAVERICKS" group-title="NOT WORKING" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181214/500x500/mavericks_wbg.png" tvg-chno="",NBALP1: DALLAS MAVERICKS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46962
-#EXTINF:-1 tvg-id="NBA-DenverNuggets.us" tvg-name="NBALP1: DENVER NUGGETS" group-title="NBA" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181213/500x500/nuggets_wbg.png" tvg-chno="",NBALP1: DENVER NUGGETS
+#EXTINF:-1 tvg-id="NBA-DenverNuggets.us" tvg-name="NBALP1: DENVER NUGGETS" group-title="NOT WORKING" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181213/500x500/nuggets_wbg.png" tvg-chno="",NBALP1: DENVER NUGGETS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46963
-#EXTINF:-1 tvg-id="NBA-DetroitPistons.us" tvg-name="NBALP1: DETROIT PISTONS" group-title="NBA" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZCZRc7lZKh7GoB_2FhWXuQ.png" tvg-chno="",NBALP1: DETROIT PISTONS
+#EXTINF:-1 tvg-id="NBA-DetroitPistons.us" tvg-name="NBALP1: DETROIT PISTONS" group-title="NOT WORKING" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZCZRc7lZKh7GoB_2FhWXuQ.png" tvg-chno="",NBALP1: DETROIT PISTONS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46964
-#EXTINF:-1 tvg-id="NBA-GoldenStateWarriors.us" tvg-name="NBALP1: GOLDEN STATE WARRIORS" group-title="NBA" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*lM5E97qmGfWGNVYzJB8yFg.png" tvg-chno="",NBALP1: GOLDEN STATE WARRIORS
+#EXTINF:-1 tvg-id="NBA-GoldenStateWarriors.us" tvg-name="NBALP1: GOLDEN STATE WARRIORS" group-title="NOT WORKING" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*lM5E97qmGfWGNVYzJB8yFg.png" tvg-chno="",NBALP1: GOLDEN STATE WARRIORS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46965
-#EXTINF:-1 tvg-id="NBA-HoustonRockets.us" tvg-name="NBALP1: HOUSTON ROCKETS" group-title="NBA" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/hou.png" tvg-chno="",NBALP1: HOUSTON ROCKETS
+#EXTINF:-1 tvg-id="NBA-HoustonRockets.us" tvg-name="NBALP1: HOUSTON ROCKETS" group-title="NOT WORKING" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/hou.png" tvg-chno="",NBALP1: HOUSTON ROCKETS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46966
-#EXTINF:-1 tvg-id="NBA-IndianaPacers.us" tvg-name="NBALP1: INDIANA PACERS" group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Indiana_Pacers.svg/1200px-Indiana_Pacers.svg.png" tvg-chno="",NBALP1: INDIANA PACERS
+#EXTINF:-1 tvg-id="NBA-IndianaPacers.us" tvg-name="NBALP1: INDIANA PACERS" group-title="NOT WORKING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Indiana_Pacers.svg/1200px-Indiana_Pacers.svg.png" tvg-chno="",NBALP1: INDIANA PACERS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46967
-#EXTINF:-1 tvg-id="NBA-LAClippers.us" tvg-name="NBALP1: LOS ANGELES CLIPPERS" group-title="NBA" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*DG36Phj6BdfyRevczyruPA.png" tvg-chno="",NBALP1: LOS ANGELES CLIPPERS
+#EXTINF:-1 tvg-id="NBA-LAClippers.us" tvg-name="NBALP1: LOS ANGELES CLIPPERS" group-title="NOT WORKING" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*DG36Phj6BdfyRevczyruPA.png" tvg-chno="",NBALP1: LOS ANGELES CLIPPERS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46968
-#EXTINF:-1 tvg-id="NBA-LosAngelesLakers.us" tvg-name="NBALP1: LOS ANGELES LAKERS" group-title="NBA" tvg-logo="https://i.ibb.co/3MzWdbK/lakers.png" tvg-chno="",NBALP1: LOS ANGELES LAKERS
+#EXTINF:-1 tvg-id="NBA-LosAngelesLakers.us" tvg-name="NBALP1: LOS ANGELES LAKERS" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/3MzWdbK/lakers.png" tvg-chno="",NBALP1: LOS ANGELES LAKERS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46969
-#EXTINF:-1 tvg-id="NBA-MemphisGrizzlies.us" tvg-name="NBALP1: MEMPHIS GRIZZLIES" group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png" tvg-chno="",NBALP1: MEMPHIS GRIZZLIES
+#EXTINF:-1 tvg-id="NBA-MemphisGrizzlies.us" tvg-name="NBALP1: MEMPHIS GRIZZLIES" group-title="NOT WORKING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png" tvg-chno="",NBALP1: MEMPHIS GRIZZLIES
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46970
-#EXTINF:-1 tvg-id="NBA-MiamiHeat.us" tvg-name="NBALP1: MIAMI HEAT" group-title="NBA" tvg-logo="https://images.vexels.com/media/users/3/131475/isolated/preview/0f01e14fca8d63ccb19f35955de2c3bb-miami-heat-logo-by-vexels.png" tvg-chno="",NBALP1: MIAMI HEAT
+#EXTINF:-1 tvg-id="NBA-MiamiHeat.us" tvg-name="NBALP1: MIAMI HEAT" group-title="NOT WORKING" tvg-logo="https://images.vexels.com/media/users/3/131475/isolated/preview/0f01e14fca8d63ccb19f35955de2c3bb-miami-heat-logo-by-vexels.png" tvg-chno="",NBALP1: MIAMI HEAT
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46971
-#EXTINF:-1 tvg-id="NBA-MilwaukeeBucks.us" tvg-name="NBALP1: MILWAUKEE BUCKS" group-title="NBA" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*AuvSMDcp555whLN6v5PNnw.png" tvg-chno="",NBALP1: MILWAUKEE BUCKS
+#EXTINF:-1 tvg-id="NBA-MilwaukeeBucks.us" tvg-name="NBALP1: MILWAUKEE BUCKS" group-title="NOT WORKING" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*AuvSMDcp555whLN6v5PNnw.png" tvg-chno="",NBALP1: MILWAUKEE BUCKS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46972
-#EXTINF:-1 tvg-id="NBA-MinnesotaTimberwolves.us" tvg-name="NBALP1: MINNESOTA TIMBERWOLVES" group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/1200px-Minnesota_Timberwolves_logo.svg.png" tvg-chno="",NBALP1: MINNESOTA TIMBERWOLVES
+#EXTINF:-1 tvg-id="NBA-MinnesotaTimberwolves.us" tvg-name="NBALP1: MINNESOTA TIMBERWOLVES" group-title="NOT WORKING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/1200px-Minnesota_Timberwolves_logo.svg.png" tvg-chno="",NBALP1: MINNESOTA TIMBERWOLVES
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46973
-#EXTINF:-1 tvg-id="NBA-NewOrleansPelicans.us" tvg-name="NBALP1: NEW ORLEANS PELICANS" group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/New_Orleans_Pelicans_logo.svg/1200px-New_Orleans_Pelicans_logo.svg.png" tvg-chno="",NBALP1: NEW ORLEANS PELICANS
+#EXTINF:-1 tvg-id="NBA-NewOrleansPelicans.us" tvg-name="NBALP1: NEW ORLEANS PELICANS" group-title="NOT WORKING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/New_Orleans_Pelicans_logo.svg/1200px-New_Orleans_Pelicans_logo.svg.png" tvg-chno="",NBALP1: NEW ORLEANS PELICANS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46974
-#EXTINF:-1 tvg-id="NBA-NewYorkKnicks.us" tvg-name="NBALP1: NEW YORK KNICKS" group-title="NBA" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vU7fCHhCJtjTTORHU45JMg.png" tvg-chno="",NBALP1: NEW YORK KNICKS
+#EXTINF:-1 tvg-id="NBA-NewYorkKnicks.us" tvg-name="NBALP1: NEW YORK KNICKS" group-title="NOT WORKING" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vU7fCHhCJtjTTORHU45JMg.png" tvg-chno="",NBALP1: NEW YORK KNICKS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46975
-#EXTINF:-1 tvg-id="NBA-OklahomaCityThunder.us" tvg-name="NBALP1: OKLAHOMA CITY THUNDER" group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Oklahoma_City_Thunder.svg/1200px-Oklahoma_City_Thunder.svg.png" tvg-chno="",NBALP1: OKLAHOMA CITY THUNDER
+#EXTINF:-1 tvg-id="NBA-OklahomaCityThunder.us" tvg-name="NBALP1: OKLAHOMA CITY THUNDER" group-title="NOT WORKING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Oklahoma_City_Thunder.svg/1200px-Oklahoma_City_Thunder.svg.png" tvg-chno="",NBALP1: OKLAHOMA CITY THUNDER
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46976
-#EXTINF:-1 tvg-id="NBA-OrlandoMagic.us" tvg-name="NBALP1: ORLANDO MAGIC" group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/230px-Orlando_Magic_logo.svg.png" tvg-chno="",NBALP1: ORLANDO MAGIC
+#EXTINF:-1 tvg-id="NBA-OrlandoMagic.us" tvg-name="NBALP1: ORLANDO MAGIC" group-title="NOT WORKING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/230px-Orlando_Magic_logo.svg.png" tvg-chno="",NBALP1: ORLANDO MAGIC
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46977
-#EXTINF:-1 tvg-id="NBA-Philadelphia76ers.us" tvg-name="NBALP1: PHILADELPHIA 76ERS" group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/0/0e/Philadelphia_76ers_logo.svg/999px-Philadelphia_76ers_logo.svg.png" tvg-chno="",NBALP1: PHILADELPHIA 76ERS
+#EXTINF:-1 tvg-id="NBA-Philadelphia76ers.us" tvg-name="NBALP1: PHILADELPHIA 76ERS" group-title="NOT WORKING" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/0/0e/Philadelphia_76ers_logo.svg/999px-Philadelphia_76ers_logo.svg.png" tvg-chno="",NBALP1: PHILADELPHIA 76ERS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46978
-#EXTINF:-1 tvg-id="NBA-PhoenixSuns.us" tvg-name="NBALP1: PHOENIX SUNS" group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Phoenix_Suns_logo.svg/1200px-Phoenix_Suns_logo.svg.png" tvg-chno="",NBALP1: PHOENIX SUNS
+#EXTINF:-1 tvg-id="NBA-PhoenixSuns.us" tvg-name="NBALP1: PHOENIX SUNS" group-title="NOT WORKING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Phoenix_Suns_logo.svg/1200px-Phoenix_Suns_logo.svg.png" tvg-chno="",NBALP1: PHOENIX SUNS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46979
-#EXTINF:-1 tvg-id="NBA-PortlandTrailBlazers.us" tvg-name="NBALP1: PORTLAND TRAIL BLAZERS" group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/1200px-Portland_Trail_Blazers_logo.svg.png" tvg-chno="",NBALP1: PORTLAND TRAIL BLAZERS
+#EXTINF:-1 tvg-id="NBA-PortlandTrailBlazers.us" tvg-name="NBALP1: PORTLAND TRAIL BLAZERS" group-title="NOT WORKING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/1200px-Portland_Trail_Blazers_logo.svg.png" tvg-chno="",NBALP1: PORTLAND TRAIL BLAZERS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46980
-#EXTINF:-1 tvg-id="NBA-SacramentoKings.us" tvg-name="NBALP1: SACRAMENTO KINGS" group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/SacramentoKings.svg/1200px-SacramentoKings.svg.png" tvg-chno="",NBALP1: SACRAMENTO KINGS
+#EXTINF:-1 tvg-id="NBA-SacramentoKings.us" tvg-name="NBALP1: SACRAMENTO KINGS" group-title="NOT WORKING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/SacramentoKings.svg/1200px-SacramentoKings.svg.png" tvg-chno="",NBALP1: SACRAMENTO KINGS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46981
-#EXTINF:-1 tvg-id="NBA-SanAntonioSpurs.us" tvg-name="NBALP1: SAN ANTONIO SPURS" group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/San_Antonio_Spurs.svg/1200px-San_Antonio_Spurs.svg.png" tvg-chno="",NBALP1: SAN ANTONIO SPURS
+#EXTINF:-1 tvg-id="NBA-SanAntonioSpurs.us" tvg-name="NBALP1: SAN ANTONIO SPURS" group-title="NOT WORKING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/San_Antonio_Spurs.svg/1200px-San_Antonio_Spurs.svg.png" tvg-chno="",NBALP1: SAN ANTONIO SPURS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46982
-#EXTINF:-1 tvg-id="NBA-TorontoRaptors.us" tvg-name="NBALP1: TORONTO RAPTORS" group-title="NBA" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*pxCli5edK93sZ1rWExUwRA.png" tvg-chno="",NBALP1: TORONTO RAPTORS
+#EXTINF:-1 tvg-id="NBA-TorontoRaptors.us" tvg-name="NBALP1: TORONTO RAPTORS" group-title="NOT WORKING" tvg-logo="https://miro.medium.com/v2/resize:fit:640/format:webp/1*pxCli5edK93sZ1rWExUwRA.png" tvg-chno="",NBALP1: TORONTO RAPTORS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46983
-#EXTINF:-1 tvg-id="NBA-UtahJazz.ua" tvg-name="NBALP1: UTAH JAZZ" group-title="NBA" tvg-logo="https://i.ibb.co/xfNwBmQ/jazz.png" tvg-chno="",NBALP1: UTAH JAZZ
+#EXTINF:-1 tvg-id="NBA-UtahJazz.ua" tvg-name="NBALP1: UTAH JAZZ" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/xfNwBmQ/jazz.png" tvg-chno="",NBALP1: UTAH JAZZ
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46984
-#EXTINF:-1 tvg-id="NBA-WashingtonWizards.us" tvg-name="NBALP1: WASHINGTON WIZARDS" group-title="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/1200px-Washington_Wizards_logo.svg.png" tvg-chno="",NBALP1: WASHINGTON WIZARDS
+#EXTINF:-1 tvg-id="NBA-WashingtonWizards.us" tvg-name="NBALP1: WASHINGTON WIZARDS" group-title="NOT WORKING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/1200px-Washington_Wizards_logo.svg.png" tvg-chno="",NBALP1: WASHINGTON WIZARDS
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46985
 
-#EXTINF:-1 tvg-id="NBA-AtlantaHawks.us" tvg-name="NBALP2: Atlanta Hawks" group-title="NBA" tvg-logo="https://i.ibb.co/gzXw5vB/hawks.png" tvg-chno="",NBALP2: Atlanta Hawks
+#EXTINF:-1 tvg-id="NBA-AtlantaHawks.us" tvg-name="NBALP2: Atlanta Hawks" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/gzXw5vB/hawks.png" tvg-chno="",NBALP2: Atlanta Hawks
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46646
-#EXTINF:-1 tvg-id="NBA-BostonCeltics.us" tvg-name="NBALP2: Boston Celtics" group-title="NBA" tvg-logo="https://i.ibb.co/7XKG2dz/celtics.png" tvg-chno="",NBALP2: Boston Celtics
+#EXTINF:-1 tvg-id="NBA-BostonCeltics.us" tvg-name="NBALP2: Boston Celtics" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/7XKG2dz/celtics.png" tvg-chno="",NBALP2: Boston Celtics
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46647
-#EXTINF:-1 tvg-id="NBA-BrooklynNets.us" tvg-name="NBALP2: Brooklyn Nets" group-title="NBA" tvg-logo="https://i.ibb.co/bzzj5M2/nets.png" tvg-chno="",NBALP2: Brooklyn Nets
+#EXTINF:-1 tvg-id="NBA-BrooklynNets.us" tvg-name="NBALP2: Brooklyn Nets" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/bzzj5M2/nets.png" tvg-chno="",NBALP2: Brooklyn Nets
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46648
-#EXTINF:-1 tvg-id="NBA-CharlotteHornets.us" tvg-name="NBALP2: Charlotte Hornets" group-title="NBA" tvg-logo="https://i.ibb.co/5ThKf7g/hornets.png" tvg-chno="",NBALP2: Charlotte Hornets
+#EXTINF:-1 tvg-id="NBA-CharlotteHornets.us" tvg-name="NBALP2: Charlotte Hornets" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/5ThKf7g/hornets.png" tvg-chno="",NBALP2: Charlotte Hornets
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46649
-#EXTINF:-1 tvg-id="NBA-ChicagoBulls.us" tvg-name="NBALP2: Chicago Bulls" group-title="NBA" tvg-logo="https://i.ibb.co/wWMHnZd/bulls.png" tvg-chno="",NBALP2: Chicago Bulls
+#EXTINF:-1 tvg-id="NBA-ChicagoBulls.us" tvg-name="NBALP2: Chicago Bulls" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/wWMHnZd/bulls.png" tvg-chno="",NBALP2: Chicago Bulls
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46838
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46650
-#EXTINF:-1 tvg-id="NBA-ClevelandCavaliers.us" tvg-name="NBALP2: Cleveland Cavaliers" group-title="NBA" tvg-logo="https://i.ibb.co/2y95jG9/cavs.png" tvg-chno="",NBALP2: Cleveland Cavaliers
+#EXTINF:-1 tvg-id="NBA-ClevelandCavaliers.us" tvg-name="NBALP2: Cleveland Cavaliers" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/2y95jG9/cavs.png" tvg-chno="",NBALP2: Cleveland Cavaliers
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46839
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46651
-#EXTINF:-1 tvg-id="NBA-DallasMavericks.us" tvg-name="NBALP2: Dallas Mavericks" group-title="NBA" tvg-logo="https://i.ibb.co/dgm0n31/mavs.png" tvg-chno="",NBALP2: Dallas Mavericks
+#EXTINF:-1 tvg-id="NBA-DallasMavericks.us" tvg-name="NBALP2: Dallas Mavericks" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/dgm0n31/mavs.png" tvg-chno="",NBALP2: Dallas Mavericks
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46652
-#EXTINF:-1 tvg-id="NBA-DenverNuggets.us" tvg-name="NBALP2: Denver Nuggets" group-title="NBA" tvg-logo="https://i.ibb.co/qWNV05G/nuggets.png" tvg-chno="",NBALP2: Denver Nuggets
+#EXTINF:-1 tvg-id="NBA-DenverNuggets.us" tvg-name="NBALP2: Denver Nuggets" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/qWNV05G/nuggets.png" tvg-chno="",NBALP2: Denver Nuggets
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46653
-#EXTINF:-1 tvg-id="NBA-DetroitPistons.us" tvg-name="NBALP2: Detroit Pistons" group-title="NBA" tvg-logo="https://i.ibb.co/GVYBbxs/pistons.png" tvg-chno="",NBALP2: Detroit Pistons
+#EXTINF:-1 tvg-id="NBA-DetroitPistons.us" tvg-name="NBALP2: Detroit Pistons" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/GVYBbxs/pistons.png" tvg-chno="",NBALP2: Detroit Pistons
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46842
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46654
-#EXTINF:-1 tvg-id="NBA-GoldenStateWarriors.us" tvg-name="NBALP2: Golden State Warriors" group-title="NBA" tvg-logo="https://i.ibb.co/Bt6287r/warriors.png" tvg-chno="",NBALP2: Golden State Warriors
+#EXTINF:-1 tvg-id="NBA-GoldenStateWarriors.us" tvg-name="NBALP2: Golden State Warriors" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/Bt6287r/warriors.png" tvg-chno="",NBALP2: Golden State Warriors
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46655
-#EXTINF:-1 tvg-id="NBA-HoustonRockets.us" tvg-name="NBALP2: Houston Rockets" group-title="NBA" tvg-logo="https://i.ibb.co/h7zGVC7/rockets.png" tvg-chno="",NBALP2: Houston Rockets
+#EXTINF:-1 tvg-id="NBA-HoustonRockets.us" tvg-name="NBALP2: Houston Rockets" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/h7zGVC7/rockets.png" tvg-chno="",NBALP2: Houston Rockets
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46656
-#EXTINF:-1 tvg-id="NBA-IndianaPacers.us" tvg-name="NBALP2: Indiana Pacers" group-title="NBA" tvg-logo="https://i.ibb.co/Xp0BYbg/pacers.png" tvg-chno="",NBALP2: Indiana Pacers
+#EXTINF:-1 tvg-id="NBA-IndianaPacers.us" tvg-name="NBALP2: Indiana Pacers" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/Xp0BYbg/pacers.png" tvg-chno="",NBALP2: Indiana Pacers
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46657
-#EXTINF:-1 tvg-id="NBA-LAClippers.us" tvg-name="NBALP2: Los Angeles Clippers" group-title="NBA" tvg-logo="https://i.ibb.co/sRLcMKT/clippers.png" tvg-chno="",NBALP2: Los Angeles Clippers
+#EXTINF:-1 tvg-id="NBA-LAClippers.us" tvg-name="NBALP2: Los Angeles Clippers" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/sRLcMKT/clippers.png" tvg-chno="",NBALP2: Los Angeles Clippers
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46658
-#EXTINF:-1 tvg-id="NBA-LosAngelesLakers.us" tvg-name="NBALP2: Los Angeles Lakers" group-title="NBA" tvg-logo="https://i.ibb.co/3MzWdbK/lakers.png" tvg-chno="",NBALP2: Los Angeles Lakers
+#EXTINF:-1 tvg-id="NBA-LosAngelesLakers.us" tvg-name="NBALP2: Los Angeles Lakers" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/3MzWdbK/lakers.png" tvg-chno="",NBALP2: Los Angeles Lakers
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46847
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46659
-#EXTINF:-1 tvg-id="NBA-MemphisGrizzlies.us" tvg-name="NBALP2: Memphis Grizzlies" group-title="NBA" tvg-logo="https://i.ibb.co/wrCHpfm/grizzlies.png" tvg-chno="",NBALP2: Memphis Grizzlies
+#EXTINF:-1 tvg-id="NBA-MemphisGrizzlies.us" tvg-name="NBALP2: Memphis Grizzlies" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/wrCHpfm/grizzlies.png" tvg-chno="",NBALP2: Memphis Grizzlies
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46660
-#EXTINF:-1 tvg-id="NBA-MiamiHeat.us" tvg-name="NBALP2: Miami Heat" group-title="NBA" tvg-logo="https://i.ibb.co/c8mMrjH/heat.png" tvg-chno="",NBALP2: Miami Heat
+#EXTINF:-1 tvg-id="NBA-MiamiHeat.us" tvg-name="NBALP2: Miami Heat" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/c8mMrjH/heat.png" tvg-chno="",NBALP2: Miami Heat
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46661
-#EXTINF:-1 tvg-id="NBA-MilwaukeeBucks.us" tvg-name="NBALP2: Milwaukee Bucks" group-title="NBA" tvg-logo="https://i.ibb.co/TqZZsfL/bucks.png" tvg-chno="",NBALP2: Milwaukee Bucks
+#EXTINF:-1 tvg-id="NBA-MilwaukeeBucks.us" tvg-name="NBALP2: Milwaukee Bucks" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/TqZZsfL/bucks.png" tvg-chno="",NBALP2: Milwaukee Bucks
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46662
-#EXTINF:-1 tvg-id="NBA-MinnesotaTimberwolves.us" tvg-name="NBALP2: Minnesota Timberwolves" group-title="NBA" tvg-logo="https://i.ibb.co/7bggXrK/timberwolves.png" tvg-chno="",NBALP2: Minnesota Timberwolves
+#EXTINF:-1 tvg-id="NBA-MinnesotaTimberwolves.us" tvg-name="NBALP2: Minnesota Timberwolves" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/7bggXrK/timberwolves.png" tvg-chno="",NBALP2: Minnesota Timberwolves
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46663
-#EXTINF:-1 tvg-id="NBA-NewOrleansPelicans.us" tvg-name="NBALP2: New Orleans Pelicans" group-title="NBA" tvg-logo="https://i.ibb.co/d5fMBv1/pelicans.png" tvg-chno="",NBALP2: New Orleans Pelicans
+#EXTINF:-1 tvg-id="NBA-NewOrleansPelicans.us" tvg-name="NBALP2: New Orleans Pelicans" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/d5fMBv1/pelicans.png" tvg-chno="",NBALP2: New Orleans Pelicans
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46852
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46664
-#EXTINF:-1 tvg-id="NBA-NewYorkKnicks.us" tvg-name="NBALP2: New York Knicks" group-title="NBA" tvg-logo="https://i.ibb.co/sjxWct7/knicks.png" tvg-chno="",NBALP2: New York Knicks
+#EXTINF:-1 tvg-id="NBA-NewYorkKnicks.us" tvg-name="NBALP2: New York Knicks" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/sjxWct7/knicks.png" tvg-chno="",NBALP2: New York Knicks
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46665
-#EXTINF:-1 tvg-id="NBA-OklahomaCityThunder.us" tvg-name="NBALP2: Oklahoma City Thunder" group-title="NBA" tvg-logo="https://i.ibb.co/k4VHDNQ/thunder.png" tvg-chno="",NBALP2: Oklahoma City Thunder
+#EXTINF:-1 tvg-id="NBA-OklahomaCityThunder.us" tvg-name="NBALP2: Oklahoma City Thunder" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/k4VHDNQ/thunder.png" tvg-chno="",NBALP2: Oklahoma City Thunder
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46666
-#EXTINF:-1 tvg-id="NBA-OrlandoMagic.us" tvg-name="NBALP2: Orlando Magic" group-title="NBA" tvg-logo="https://i.ibb.co/Tgnt2Tp/magic.png" tvg-chno="",NBALP2: Orlando Magic
+#EXTINF:-1 tvg-id="NBA-OrlandoMagic.us" tvg-name="NBALP2: Orlando Magic" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/Tgnt2Tp/magic.png" tvg-chno="",NBALP2: Orlando Magic
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46667
-#EXTINF:-1 tvg-id="NBA-Philadelphia76ers.us" tvg-name="NBALP2: Philadelphia 76ers" group-title="NBA" tvg-logo="https://i.ibb.co/4YRKXKc/philly.png" tvg-chno="",NBALP2: Philadelphia 76ers
+#EXTINF:-1 tvg-id="NBA-Philadelphia76ers.us" tvg-name="NBALP2: Philadelphia 76ers" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/4YRKXKc/philly.png" tvg-chno="",NBALP2: Philadelphia 76ers
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46668
-#EXTINF:-1 tvg-id="NBA-PhoenixSuns.us" tvg-name="NBALP2: Phoenix Suns" group-title="NBA" tvg-logo="https://i.ibb.co/JkgDwT1/suns.png" tvg-chno="",NBALP2: Phoenix Suns
+#EXTINF:-1 tvg-id="NBA-PhoenixSuns.us" tvg-name="NBALP2: Phoenix Suns" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/JkgDwT1/suns.png" tvg-chno="",NBALP2: Phoenix Suns
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46669
-#EXTINF:-1 tvg-id="NBA-PortlandTrailBlazers.us" tvg-name="NBALP2: Portland Trail Blazers" group-title="NBA" tvg-logo="https://i.ibb.co/SfC8QC2/trailblazers.png" tvg-chno="",NBALP2: Portland Trail Blazers
+#EXTINF:-1 tvg-id="NBA-PortlandTrailBlazers.us" tvg-name="NBALP2: Portland Trail Blazers" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/SfC8QC2/trailblazers.png" tvg-chno="",NBALP2: Portland Trail Blazers
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46670
-#EXTINF:-1 tvg-id="NBA-SacramentoKings.us" tvg-name="NBALP2: Sacramento Kings" group-title="NBA" tvg-logo="https://i.ibb.co/PhD3zCL/kings.png" tvg-chno="",NBALP2: Sacramento Kings
+#EXTINF:-1 tvg-id="NBA-SacramentoKings.us" tvg-name="NBALP2: Sacramento Kings" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/PhD3zCL/kings.png" tvg-chno="",NBALP2: Sacramento Kings
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46671
-#EXTINF:-1 tvg-id="NBA-SanAntonioSpurs.us" tvg-name="NBALP2: San Antonio Spurs" group-title="NBA" tvg-logo="https://i.ibb.co/z4WnNyZ/spurs.png" tvg-chno="",NBALP2: San Antonio Spurs
+#EXTINF:-1 tvg-id="NBA-SanAntonioSpurs.us" tvg-name="NBALP2: San Antonio Spurs" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/z4WnNyZ/spurs.png" tvg-chno="",NBALP2: San Antonio Spurs
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46672
-#EXTINF:-1 tvg-id="NBA-TorontoRaptors.us" tvg-name="NBALP2: Toronto Raptors" group-title="NBA" tvg-logo="https://i.ibb.co/DwHHQRs/raptors.png" tvg-chno="",NBALP2: Toronto Raptors
+#EXTINF:-1 tvg-id="NBA-TorontoRaptors.us" tvg-name="NBALP2: Toronto Raptors" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/DwHHQRs/raptors.png" tvg-chno="",NBALP2: Toronto Raptors
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46673
-#EXTINF:-1 tvg-id="NBA-UtahJazz.ua" tvg-name="NBALP2: Utah Jazz" group-title="NBA" tvg-logo="https://i.ibb.co/xfNwBmQ/jazz.png" tvg-chno="",NBALP2: Utah Jazz
+#EXTINF:-1 tvg-id="NBA-UtahJazz.ua" tvg-name="NBALP2: Utah Jazz" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/xfNwBmQ/jazz.png" tvg-chno="",NBALP2: Utah Jazz
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46862
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46674
-#EXTINF:-1 tvg-id="NBA-WashingtonWizards.us" tvg-name="NBALP2: Washington Wizards" group-title="NBA" tvg-logo="https://i.ibb.co/By0T6MH/wizards.png" tvg-chno="",NBALP2: Washington Wizards
+#EXTINF:-1 tvg-id="NBA-WashingtonWizards.us" tvg-name="NBALP2: Washington Wizards" group-title="NOT WORKING" tvg-logo="https://i.ibb.co/By0T6MH/wizards.png" tvg-chno="",NBALP2: Washington Wizards
 https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/46675
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 1",NBA 1
+https://fl7.moveonjoy.com/NBA_1/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 2",NBA 2
+https://fl7.moveonjoy.com/NBA_2/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 3",NBA 3
+https://fl7.moveonjoy.com/NBA_3/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 4",NBA 4
+https://fl7.moveonjoy.com/NBA_4/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 5",NBA 5
+https://fl7.moveonjoy.com/NBA_5/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 6",NBA 6
+https://fl7.moveonjoy.com/NBA_6/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 7",NBA 7
+https://fl7.moveonjoy.com/NBA_7/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 8",NBA 8
+https://fl7.moveonjoy.com/NBA_8/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 9",NBA 9
+https://fl7.moveonjoy.com/NBA_9/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 10",NBA 10
+https://fl7.moveonjoy.com/NBA_10/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 11",NBA 11
+https://fl7.moveonjoy.com/NBA_11/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 12",NBA 12
+https://fl7.moveonjoy.com/NBA_12/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 13",NBA 13
+https://fl7.moveonjoy.com/NBA_13/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-name="NBA TV",NBA TV
 http://fl7.moveonjoy.com/NBA_TV/index.m3u8

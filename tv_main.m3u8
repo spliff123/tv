@@ -582,7 +582,7 @@ http://fl7.moveonjoy.com/YES_NETWORK/index.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:-1  tvg-name="Adult Swim Infomercials" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ytimg.com/vi/8OXOnoO_AwY/maxresdefault.jpg" group-title="Adult Swim 24/7" radio="false",Adult Swim Infomercials
 https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_de.m3u8
-#EXTINF:-1  tvg-name="Adult Swim Last Stream On The Left" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ytimg.com/vi/8OXOnoO_AwY/maxresdefault.jpg" group-title="Swim 24/7" radio="false",Adult Swim Last Stream On The Left
+#EXTINF:-1  tvg-name="Adult Swim Last Stream On The Left" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ytimg.com/vi/8OXOnoO_AwY/maxresdefault.jpg" group-title="Adult Swim 24/7" radio="false",Adult Swim Last Stream On The Left
 https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_de.m3u8
 #EXTINF:-1  tvg-name="Adult Swim Loiter Squad" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ytimg.com/vi/FGdYZ0zxsbw/maxresdefault.jpg" group-title="Adult Swim 24/7" radio="false",Adult Swim Loiter Squad
 https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8

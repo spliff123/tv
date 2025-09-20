@@ -577,3 +577,27 @@ http://fl7.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/74467
 #EXTINF:-1 group-title="Sports" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
 http://fl7.moveonjoy.com/YES_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Toonami" tvg-id="24.7.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Aqua_Teen_Hunger_Force_2000_logo.svg/revision/latest?cb=20240119000830" tvg-name="Adult Swim Aqua Teen Hunger Force",Adult Swim Aqua Teen Hunger Force
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:-1 group-title="Toonami" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ytimg.com/vi/awp_znxxQm4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCm7I6_f8CROKGh60YgADLbeNa0UQ" tvg-name="Robot Chicken",Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 group-title="Toonami" tvg-id="24.7.Dummy.us" tvg-logo="https://thegeekchurch.com/wp-content/uploads/2014/09/samurai-jack-vs-aku.jpg" tvg-name="Samurai Jack",Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
+#EXTINF:-1 group-title="Toonami" tvg-id="24.7.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/venturebrothers/images/e/e8/VentureLogo.jpg/revision/latest/scale-to-width-down/1000?cb=20130725205002" tvg-name="The Venture Brothers",The Venture Brothers
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_4.m3u8
+
+#EXTINF:-1 group-title="Toonami" tvg-id="24.7.Dummy.us" tvg-logo="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/01/shutterstock_2221828967.jpg" tvg-name="Retro Blast",Retro Blast
+https://retroblast.tv/hls/0/stream.m3u8?cachebust=f224d41f
+
+#EXTINF:-1 group-title="Toonami" tvg-id="RetroCrush" tvg-logo="https://i.pcmag.com/imagery/reviews/03Qx3rokUFhvyC5YyDnvqVT-1.fit_scale.size_1028x578.v1586275702.png" tvg-name="Retro Crush",Retro Crush
+https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/2/profileManifest.m3u8?_uid=4ac1ee1f-9a8a-4f1e-881d-587ae37c1cfe&rK=b1&_did=14a97778cae33c95af27543510c10c5f126ed676
+
+#EXTINF:-1 group-title="Toonami" tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20east.jpg" tvg-name="Toonami Aftermath East",Toonami Aftermath East
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 group-title="Toonami" tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20west.jpg" tvg-name="Toonami Aftermath West",Toonami Aftermath West
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:-1 group-title="Toonami" tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20movies.jpg" tvg-name="Toonami Aftermath Movies",Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1 group-title="Toonami" tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20radio.jpg" tvg-name="Toonami Aftermath Radio",Toonami Aftermath Radio
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8

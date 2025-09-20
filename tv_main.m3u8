@@ -578,7 +578,7 @@ http://fl7.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
 http://fl7.moveonjoy.com/YES_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="Toonami" tvg-id="24.7.Dummy.us" tvg-logo="https://logos.fandom.com/wiki/Aqua_Teen_Hunger_Force?file=Aqua_Teen_Hunger_Force_2000_logo.svg" tvg-name="Aqua Teen Hunger Force",Aqua Teen Hunger Force
+#EXTINF:-1 group-title="Toonami" tvg-id="24.7.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/athfwiki/images/e/e0/Aqua_Teen_Hunger_Force_2000_logo.png/revision/latest/scale-to-width-down/1000?cb=20231215214929" tvg-name="Aqua Teen Hunger Force",Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 #EXTINF:-1 group-title="Toonami" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ytimg.com/vi/awp_znxxQm4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCm7I6_f8CROKGh60YgADLbeNa0UQ" tvg-name="Robot Chicken",Robot Chicken
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8

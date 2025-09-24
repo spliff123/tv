@@ -593,6 +593,8 @@ https://retroblast.tv/hls/0/stream.m3u8?cachebust=f224d41f
 #EXTINF:-1 group-title="Toonami" tvg-id="plex.tv.RetroCrush.plex" tvg-logo="https://i.pcmag.com/imagery/reviews/03Qx3rokUFhvyC5YyDnvqVT-1.fit_scale.size_1028x578.v1586275702.png" tvg-name="Retro Crush",Retro Crush
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/2/profileManifest.m3u8?_uid=4ac1ee1f-9a8a-4f1e-881d-587ae37c1cfe&rK=b1&_did=14a97778cae33c95af27543510c10c5f126ed676
 
+#EXTINF:-1 group-title="Toonami" tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20east.jpg" tvg-name="Classic Toons",Classic Toons
+http://drewlive24.duckdns.org:8080/hls/stream.m3u8
 #EXTINF:-1 group-title="Toonami" tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20east.jpg" tvg-name="Toonami Aftermath East",Toonami Aftermath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 group-title="Toonami" tvg-id="24.7.Dummy.us" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20west.jpg" tvg-name="Toonami Aftermath West",Toonami Aftermath West

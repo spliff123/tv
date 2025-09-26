@@ -65,11 +65,11 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="ActionMAX.HD.us2" tvg-logo="https://cdn.iptvboss.pro/logos/USA/CinemaxActionMax%20us.png" tvg-name="CINEMAX ActionMAX",CINEMAX ActionMAX
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/70389
 #EXTINF:-1 group-title="Movies" tvg-id="MoreMax.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX",CINEMAX MOREMAX
-https://fl7.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#https://fl7.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="MovieMax.(Max.6).-.East.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/MovieMax.us.png" tvg-name="CINEMAX MovieMax",CINEMAX MovieMax
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/70391
 #EXTINF:-1 group-title="Movies" tvg-id="OuterMax.east.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/OuterMAXus.png" tvg-name="CINEMAX OuterMAX",CINEMAX OuterMAX
-https://fl7.moveonjoy.com/OUTER_MAX/index.m3u8
+#https://fl7.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="ThrillerMax.-.East.us" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ThrillerMAX.us.png" tvg-name="CINEMAX ThrillerMAX",CINEMAX ThrillerMAX
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/70392
 #EXTINF:-1 group-title="Movies" tvg-id="Cinemax.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" tvg-name="CINEMAX WEST",CINEMAX WEST

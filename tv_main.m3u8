@@ -245,11 +245,11 @@ https://fl7.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="MGM+.Marquee.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-marquee-us.png?raw=true" tvg-name="MGM+ MARQUEE",MGM+ MARQUEE
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/70411
 
-#EXTINF:-1 group-title="MLB" tvg-id="(no tvg-id)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-name="MLB 1",MLB 1
+#EXTINF:-1 group-title="MLB" tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-name="MLB 1",MLB 1
 http://fl7.moveonjoy.com/MLB_1/index.m3u8
-#EXTINF:-1 group-title="MLB" tvg-id="(no tvg-id)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-name="MLB 2",MLB 2
+#EXTINF:-1 group-title="MLB" tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-name="MLB 2",MLB 2
 http://fl7.moveonjoy.com/MLB_2/index.m3u8
-#EXTINF:-1 group-title="MLB" tvg-id="(no tvg-id)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-name="MLB 3",MLB 3
+#EXTINF:-1 group-title="MLB" tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-name="MLB 3",MLB 3
 http://fl7.moveonjoy.com/MLB_3/index.m3u8
 #EXTINF:-1 group-title="MLB" tvg-id="MLB.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" tvg-name="MLB Network",MLB Network
 http://fl7.moveonjoy.com/MLB_NETWORK/index.m3u8
@@ -260,8 +260,8 @@ http://fl7.moveonjoy.com/MOTOR_TREND/index.m3u8
 http://fl7.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="MSNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" tvg-name="MSNBC",MSNBC
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/143.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="mtv-U.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" tvg-name="MTV",MTV
-https://fl7.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" tvg-name="MTV",MTV
+https://fl7.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="MTV.Classic.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" tvg-name="MTV Classic",MTV Classic
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/98978
 #EXTINF:-1 group-title="Entertainment" tvg-id="MTVLIVE.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" tvg-name="MTV Live",MTV Live

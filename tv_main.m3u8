@@ -721,6 +721,9 @@ https://fl7.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TV.ONE.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-name="TVOne",TVOne
 https://fl7.moveonjoy.com/TV_ONE/index.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-id="UPtv.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/up-tv-us.png" tvg-name="UP TV", UP TV 
+http://fl7.moveonjoy.com/Up_Tv/index.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
 https://fl7.moveonjoy.com/USA_Network/index.m3u8
 

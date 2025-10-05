@@ -313,12 +313,12 @@ http://fl7.moveonjoy.com/INSP/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ION.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" tvg-name="ION",ION
 http://fl7.moveonjoy.com/ION_TV/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="plex.tv.ION.Plus.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-plus-us.png?raw=true" tvg-name="ION PLUS", ION PLUS
+#EXTINF:-1 group-title="Entertainment" tvg-id="plex.tv.ION.Plus.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-plus-us.png?raw=true" tvg-name="ION PLUS",ION PLUS
 http://fl7.moveonjoy.com/ION_Plus/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Laff.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" tvg-name="Laff TV",Laff TV
 #https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/98971
-#EXTINF:-1 group-title="Entertainment" tvg-id="648095b14e104622d093d902" tvg-name="Laff More" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0dcdc1c519e1f78b74fb7d5147a81707.png", LAFF MORE
+#EXTINF:-1 group-title="Entertainment" tvg-id="648095b14e104622d093d902" tvg-name="Laff More" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0dcdc1c519e1f78b74fb7d5147a81707.png",LAFF MORE
 https://dbrb49pjoymg4.cloudfront.net/10001/99951232/hls/playlist.m3u8?ads.xumo_channelId=99951232&ads._fw_ifa_type=&ads._fw_did=6565142b-7cde-4adb-b012-905c11331f61&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ScrippsLaffMore&ads.csid=xumo_web_ScrippsLaffMore_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3924&ads.xumo_contentName=ScrippsLaffMore&ads.xumo_providerId=3924&ads.xumo_providerName=ScrippsLaffMore&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951232&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Law.and.Crime.us2" tvg-logo="https://logos.trezix.tv/united-states/law-and-crime-network-us.png" tvg-name="Law & Crime",Law & Crime
@@ -336,7 +336,7 @@ https://fl7.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Love.Nature.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-4k-ca.png" tvg-name="LOVE NATURE",LOVE NATURE
 http://fl7.moveonjoy.com/LOVE_NATURE/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Magnolia.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/magnolia-network-us.png?raw=true" tvg-name="MAGNOLIA NETWORK", MAGNOLIA NETWORK
+#EXTINF:-1 group-title="Movies" tvg-id="Magnolia.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/magnolia-network-us.png?raw=true" tvg-name="MAGNOLIA NETWORK",MAGNOLIA NETWORK
 http://fl7.moveonjoy.com/DIY/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="MavTV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mav-tv-us.png?raw=true" tvg-name="MAVTV",MAVTV
@@ -546,7 +546,7 @@ https://fl7.moveonjoy.com/OXYGEN/index.m3u8
 https://fl7.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 channel-id="5ff8c708653d080007361b14" tvg-id="5ff8c708653d080007361b14" tvg-chno="2020" tvg-name="PARAMOUNT+ PICKS" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/colorLogoPNG.png" group-title="Entertainment",PARAMOUNT+ PICKS
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
-#EXTINF:-1 channel-id="5cb0cae7a461406ffe3f5213" tvg-id="5cb0cae7a461406ffe3f5213" tvg-chno="200" tvg-name="PARAMOUNT MOVIE CHANNEL" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Entertainment", PARAMOUNT MOVIE CHANNEL
+#EXTINF:-1 channel-id="5cb0cae7a461406ffe3f5213" tvg-id="5cb0cae7a461406ffe3f5213" tvg-chno="200" tvg-name="PARAMOUNT MOVIE CHANNEL" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Entertainment",PARAMOUNT MOVIE CHANNEL
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 
 #EXTINF:-1 tvg-id="PBS.(WGBH).Boston,.MA.us" tvg-name="PBS WGBH" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/2560px-PBS_logo_2019.svg.png" tvg-chno="",PBS WGBH
@@ -584,9 +584,9 @@ http://fl7.moveonjoy.com/REELZ/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Revolt.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" tvg-name="Revolt",Revolt
 https://fl7.moveonjoy.com/REVOLT/index.m3u8
 
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66f5a92352c50d2f62020f38" tvg-id="5e20b730f2f8d5003d739db7-66f5a92352c50d2f62020f38" tvg-chno="" tvg-name="Horror by ALTER" tvg-logo="https://provider-static.plex.tv/epg/cms/production/30b777b5-603d-4ab8-b8f9-9d37da513edd/HorrorbyAlter_logo_1500x1000_-_Courtney_Cox.png" group-title="Movies", HORROR BY ALTER
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66f5a92352c50d2f62020f38" tvg-id="5e20b730f2f8d5003d739db7-66f5a92352c50d2f62020f38" tvg-chno="" tvg-name="Horror by ALTER" tvg-logo="https://provider-static.plex.tv/epg/cms/production/30b777b5-603d-4ab8-b8f9-9d37da513edd/HorrorbyAlter_logo_1500x1000_-_Courtney_Cox.png" group-title="Movies",HORROR BY ALTER
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66f5a92352c50d2f62020f38.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="plex.tv.Scares.by.Shudder.plex" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/627ce40ef536741e2d80772b3624650b.png" tvg-name="SCARES BY SHUDDER", SCARES BY SHUDDER
+#EXTINF:-1 group-title="Movies" tvg-id="plex.tv.Scares.by.Shudder.plex" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/627ce40ef536741e2d80772b3624650b.png" tvg-name="SCARES BY SHUDDER",SCARES BY SHUDDER
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="Scripps.News.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/scripps-news-us.png?raw=true" tvg-name="Scripps News",Scripps News
@@ -623,7 +623,7 @@ http://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.360.ca" tvg-logo="https://pixvid.org/images/2025/02/24/SportsNet_360.png" tvg-name="Sportsnet 360",Sportsnet 360
 https://a1xs.vip/6000014
-#EXTINF:-1 group-title="Sports" tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sny-us.png" tvg-name="SPORTSNET NEW YORK", SPORTSNET NEW YORK
+#EXTINF:-1 group-title="Sports" tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sny-us.png" tvg-name="SPORTSNET NEW YORK",SPORTSNET NEW YORK
 http://fl7.moveonjoy.com/SNY/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="plex.tv.Stadium.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium",Stadium
@@ -721,7 +721,7 @@ https://fl7.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TV.ONE.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-name="TVOne",TVOne
 https://fl7.moveonjoy.com/TV_ONE/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="UPtv.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/up-tv-us.png" tvg-name="UP TV", UP TV 
+#EXTINF:-1 group-title="Entertainment" tvg-id="UPtv.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/up-tv-us.png" tvg-name="UP TV",UP TV 
 http://fl7.moveonjoy.com/Up_Tv/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network

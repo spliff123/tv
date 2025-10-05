@@ -268,7 +268,7 @@ https://fl7.moveonjoy.com/HBO_2/index.m3u8
 http://fl7.moveonjoy.com/HGTV/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",History
-https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/98923
+https://fl7.moveonjoy.com/history_channel/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="HLN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" tvg-name="HLN",HLN
 http://fl7.moveonjoy.com/HLN/index.m3u8

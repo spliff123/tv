@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-#EXTINF:-1 group-title="Fireplace" tvg-id="Blank.Dummy.us" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.freepik.com%2Ffree-vector%2Ffireplace-logo_7435-6.jpg&f=1&ipt=8437f26d1084fd342a3ba25c985b204270b9925244da1e2dac4c2831acc309b6",[ Fireplace ]
+#EXTINF:-1 group-title="Fireplace" tvg-id="24.7.Dummy.us" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.freepik.com%2Ffree-vector%2Ffireplace-logo_7435-6.jpg&f=1&ipt=8437f26d1084fd342a3ba25c985b204270b9925244da1e2dac4c2831acc309b6",[ Fireplace ]
 https://jmp2.uk/stvp-CA2900005KG
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
